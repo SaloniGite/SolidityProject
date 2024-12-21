@@ -5,6 +5,8 @@ This project is designed to incentivize funding scholarships by implementing a s
 
 ## Contract Address
 0x186CD6c5E43ae22682e0fF82F3672EDEa0247f94
+![image](https://github.com/user-attachments/assets/980e249d-80d3-4cd2-af20-be89ac7769e7)
+
 
 ## Project Vision
 Our vision is to bridge the gap between education and funding by leveraging blockchain technology. By encouraging people to stake their assets, we aim to create a sustainable funding mechanism for scholarships that empowers deserving students globally.
